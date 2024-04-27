@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @compunautAI
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python, Operating Systems Concepts, and Backend Engineering
-- 💞️ I’m looking to collaborate on Projects dealing with A.I., Climate Change, and Space
+- 🌱 I’m currently learning Python, Data Science, and AI Engineering
 - 📫 How to reach me: voidstarcoder@gmail.com
 
 <!---
