@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @compunautAI
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python, Data Science, and AI Engineering
+- Masters UTD portfolio: https://ricpadil17.github.io/nlp_portfolio/
 - 📫 How to reach me: voidstarcoder@gmail.com
 
 <!---
